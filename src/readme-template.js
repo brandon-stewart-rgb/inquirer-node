@@ -3,43 +3,43 @@ function generateReadMe  (userResponses, userInfo)  {
       var shields = produceShields(userResponses.license)
       var outcome = ( `
 
-            <h1 align="center">${userResponses.title}</h1>
+<h1 align="center">${userResponses.title}</h1>
 
-            # Description \n
-            ${userResponses.description}
+# Description \n
+${userResponses.description}
 
-            ![License Badge](${shields})
-            <br />
+![License Badge](${shields})
+<br />
 
-            # Table of Contents \n
-            - [Installation](#installation)
-            - [Usage](#usage)
-            - [License](#license)
-            - [Contributing](#contributing)
-            - [Tests](#tests)
-            - [Questions](#questions)
+# Table of Contents \n
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-            # Installation \n
-            ${userResponses.installation}
+# Installation \n
+${userResponses.installation}
 
-            # Usage  \n
-            ${userResponses.usage}
+# Usage  \n
+${userResponses.usage}
 
-            # License
-            > Project is licensed under the **${userResponses.license}** - see the [License URL](${openSourceUrl}) page for specific info for this license.
+# License
+> Project is licensed under the **${userResponses.license}** - see the [License URL](${openSourceUrl}) page for specific info for this license.
 
-            # Contributing \n
-            ${userResponses.contributing}
+# Contributing \n
+${userResponses.contributing}
 
-            # Tests \n
-            ${userResponses.tests}
+# Tests \n
+${userResponses.tests}
 
-            # Questions \n
-            ${userInfo.name}
+# Questions \n
+${userInfo.name}
 
-            [My Github account](${userInfo.html_url})
-            Have any questions about this project? </br>
-            <a href="${userResponses.email}">Email Me</a>  
+[My Github account](${userInfo.html_url})
+Have any questions about this project? </br>
+<a href="${userResponses.email}">Email Me</a>  
                 
    `);
    return outcome;

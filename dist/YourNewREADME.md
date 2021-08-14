@@ -1,12 +1,12 @@
 
 
-<h1 align="center">this is my title</h1>
+<h1 align="center">Big Project Title</h1>
 
 # Description 
 
-f
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed mi vitae mauris finibus ornare. Morbi ut suscipit ex, quis elementum nisi. Sed interdum dolor lacus, vel sagittis ligula tempor sed. Maecenas in tristique turpis, eget sodales mi. Vivamus pellentesque dolor libero. 
 
-![License Badge](https://img.shields.io/static/v1?label=license&message=GNU+AGPLv3&color=brightgreen&style=for-the-badge)
+![License Badge](https://img.shields.io/static/v1?label=license&message=MIT+License&color=brightgreen&style=for-the-badge)
 <br />
 
 # Table of Contents 
@@ -20,29 +20,29 @@ f
 
 # Installation 
 
-f
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed mi vitae mauris finibus ornare. Morbi ut suscipit ex, quis elementum nisi. Sed interdum dolor lacus, vel sagittis ligula tempor sed. Maecenas in tristique turpis, eget sodales mi. Vivamus pellentesque dolor libero. 
 
 # Usage  
 
-f
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed mi vitae mauris finibus ornare. Morbi ut suscipit ex, quis elementum nisi. Sed interdum dolor lacus, vel sagittis ligula tempor sed. Maecenas in tristique turpis, eget sodales mi. Vivamus pellentesque dolor libero. 
 
 # License
-> Project is licensed under the **GNU AGPLv3** - see the [License URL](https://choosealicense.com/licenses/agpl-3.0) page.
+> Project is licensed under the **MIT License** - see the [License URL](https://choosealicense.com/licenses/mit) page for specific info for this license.
 
 # Contributing 
 
-f
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed mi vitae mauris finibus ornare. Morbi ut suscipit ex, quis elementum nisi. Sed interdum dolor lacus, vel sagittis ligula tempor sed. Maecenas in tristique turpis, eget sodales mi. Vivamus pellentesque dolor libero. 
 
 # Tests 
 
-f
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed mi vitae mauris finibus ornare. Morbi ut suscipit ex, quis elementum nisi. Sed interdum dolor lacus, vel sagittis ligula tempor sed. Maecenas in tristique turpis, eget sodales mi. Vivamus pellentesque dolor libero. 
 
 # Questions 
 
-Fatih Kadir Akın
+Brandon Stewart
 
-[My Github account](https://github.com/f)
+[My Github account](https://github.com/brandon-stewart-rgb)
 Have any questions about this project? </br>
-<a href="f">Email Me</a>  
-    
+<a href="brandon@gmail.com">Email Me</a>  
+                
    
