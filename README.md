@@ -1,5 +1,5 @@
 
-<h1 align="center">Big Project Title</h1>
+<h1 align="center">Inquirer Node</h1>
 
 # Description 
 
@@ -14,7 +14,7 @@ A README.md generator using inquirer prompts and answers genarated using Node.js
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-
+- [Demo](#demo)
 - [Questions](#questions)
 
 # Installation 
@@ -34,7 +34,7 @@ Please feel free to contribute.
 
 # Demo 
 
-![Example screenshot](./img/inquirer-node-1628964566283)  
+![Example screenshot](./img/inquirer-node-1628964566283.gif)  
 
 # Questions 
 
