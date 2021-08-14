@@ -3,7 +3,7 @@
 
 # Description 
 
-A README.md generator using inquirer prompts and answers genarated using Node.js
+A README.md generator using inquirer prompts and answers using Node.js.
 
 ![License Badge](https://img.shields.io/static/v1?label=license&message=MIT+License&color=brightgreen&style=for-the-badge)
 <br />
@@ -19,7 +19,7 @@ A README.md generator using inquirer prompts and answers genarated using Node.js
 
 # Installation 
 
-Clone the repo, install the depenencies and run from the command line.
+Clone the repo, install the dependencies and run <node index.js> from the command line.
 
 # Usage  
 
